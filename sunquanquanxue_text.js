@@ -69,7 +69,6 @@ const poemData = [
     { text: "卿", py: "qīng", zh: "你。", en: "Your" },
     // 🎯【死绑定】：现在的才干和谋略
     { text: "今者才略", py: "jīn zhě cái lüè", zh: "名词短语，现在的才干和政治军事谋略。今者：现在。", en: "current talent and wisdom", exam: true },
-    { text: "空间", punc: true }, // 防止特定标点冲突的物理间隔
     { text: "，", punc: true },
     // 🎯【死绑定】：不再是当年的吴下阿蒙了
     { text: "非复吴下阿蒙", py: "fēi fù wú xià ā méng", zh: "固定成语短语，不再是当年吴下那个没有学识的阿蒙了。非复：不再是。", en: "are no longer the unlearned Ameng of old Wu!", exam: true },
